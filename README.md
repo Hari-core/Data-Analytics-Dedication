@@ -7,3 +7,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 17.01.25 <p> Introduction to MS Excel.<br>
 <br> 18.01.25 <p> Aptitude <br>
 <br> 19.01.25 <p> D6 Revision <br>
+<br> 20.01.25 <p> D7 Excel Day 2 <br>
