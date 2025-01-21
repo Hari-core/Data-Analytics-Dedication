@@ -8,3 +8,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 18.01.25 <p> Aptitude <br>
 <br> 19.01.25 <p> D6 Revision <br>
 <br> 20.01.25 <p> D7 Excel Day 2 <br>
+<br> 21.01.25 <p> D8 Notes <br>
