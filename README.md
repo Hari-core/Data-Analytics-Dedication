@@ -11,3 +11,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 21.01.25 <p> D8 Notes <br>
 <br> 22.01.25 <p> D9 Excel Day 3 , AND OR NOT <br>
 <br> 23.01.25 <p> D10 Completed the assignments <br>
+<br> 24.01.25 <p> D11 Introduction to a Business Problem <br>
