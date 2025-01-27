@@ -13,4 +13,5 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 23.01.25 <p> D10 Completed the assignments <br>
 <br> 24.01.25 <p> D11 Introduction to a Business Problem <br>
 <br> 25.01.25 <p> D12 Notes Revision <br>
-<br> 26.01.25 <p> D13 Notes and Revision <br
+<br> 26.01.25 <p> D13 Notes and Revision <br>
+<br> 27.01.25 <p> D14 vlookup, hlookup, match,index <br>
