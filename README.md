@@ -16,5 +16,6 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 26.01.25 <p> D13 Notes and Revision <br>
 <br> 27.01.25 <p> D14 vlookup, hlookup, match,index <br>
 <br> 28.01.25 <p> D15 Assignments <br>
-<br> 30.01.25 <p> D16 Data cleaning 1 <br>
+<br> 29.01.25 <p> D16 Data cleaning 1 <br>
+<br> 30.01.25 <p> D17 Data cleaning 1 Revision <br>
 
