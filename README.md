@@ -20,3 +20,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 30.01.25 <p> D17 Data cleaning 1 Revision <br>
 <br> 31.01.25 <p> D18 Managing Outliers <br>
 <br> 1.02.25 <p> D19 Revision <br>
+<br> 02.02.25 <p> D20 Rest <br>
