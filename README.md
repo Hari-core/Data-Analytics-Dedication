@@ -24,3 +24,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 03.02.25 <p> D21 Pivot Table <br>
 <br> 04.02.25 <p> D22 Assignment <br>
 <br> 05.02.25 <p> D23 Data Analysis 2 <br>
+<br> 06.02.25 <p> D24 Revision <br>
