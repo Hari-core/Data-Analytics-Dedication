@@ -36,3 +36,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 15.02.25 <p> D33 Revision<br>
 <br> 16.02.25 <p> D34 Revision <br>
 <br> 17.02.25 <p> D35 Adv Power Query <br>
+<br> 18.02.25 <p> D36 Revision <br>
