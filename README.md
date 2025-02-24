@@ -42,4 +42,5 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 21.02.25 <p> D39 Rest <br>
 <br> 22.02.25 <p> D40 Rest <br>
 <br> 23.02.25 <p> D41 Rest <br>
+<br> 24.02.25 <p> D42 US Healthcare Case Study <br>
 
