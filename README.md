@@ -76,4 +76,5 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 27.03.25 <p> D73 Power BI <br>
 <br> 28.03.25 <p> D74 Power BI <br>
 <br> 29.03.25 <p> D75 Power BI <br>
+<br> 30.03.25 <p> D76 Power BI <br>
 
