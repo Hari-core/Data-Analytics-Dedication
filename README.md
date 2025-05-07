@@ -113,3 +113,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 04.05.25 <p> D110 Completing backlogs <br>
 <br> 05.05.25 <p> D111 Completing backlogs <br>
 <br> 06.05.25 <p> D112 Completing backlogs <br>
+<br> 07.05.25 <p> D113 Power BI <br>
