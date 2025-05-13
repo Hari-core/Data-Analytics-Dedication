@@ -119,3 +119,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 10.05.25 <p> D116 Revision Power BI <br>
 <br> 11.05.25 <p> D117 Rest <br>
 <br> 12.05.25 <p> D118 SQL 2 <br>
+<br> 13.05.25 <p> D119 SQL 2 <br>
