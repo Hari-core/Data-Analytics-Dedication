@@ -139,3 +139,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 30.05.25 <p> D136 SQL 2 <br>
 <br> 31.05.25 <p> D137 SQL 2 <br>
 <br> 01.06.25 <p> D138 SQL 2 <br>
+<br> 02.06.25 <p> D139 SQL 2 <br>
