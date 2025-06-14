@@ -50,19 +50,19 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 01.03.25 <p> D47 Study <br>
 <br> 02.03.25 <p> D48 Study <br>
 <br> 03.03.25 <p> D49 Us HealthCare 1 <br>
-<br> 04.03.25 <p> D50 Rest <br>
-<br> 05.03.25 <p> D51 Rest <br>
-<br> 06.03.25 <p> D52 Rest <br>
+<br> 04.03.25 <p> D50 CPI dataset <br>
+<br> 05.03.25 <p> D51 CPI <br>
+<br> 06.03.25 <p> D52 Assignment <br>
 <br> 07.03.25 <p> D53 Rest <br>
 <br> 08.03.25 <p> D54 Rest <br>
-<br> 09.03.25 <p> D55 Rest <br>
-<br> 10.03.25 <p> D56 Rest <br>
-<br> 11.03.25 <p> D57 Rest <br>
-<br> 12.03.25 <p> D58 Rest <br>
-<br> 13.03.25 <p> D59 Rest <br>
-<br> 14.03.25 <p> D60 Rest <br>
-<br> 15.03.25 <p> D61 Rest <br>
-<br> 16.03.25 <p> D62 Rest <br>
+<br> 09.03.25 <p> D55 Assignment <br>
+<br> 10.03.25 <p> D56 Assignment <br>
+<br> 11.03.25 <p> D57 Case Study Assignment<br>
+<br> 12.03.25 <p> D58 Test <br>
+<br> 13.03.25 <p> D59 Assignment <br>
+<br> 14.03.25 <p> D60 Notes <br>
+<br> 15.03.25 <p> D61 Mock Test <br>
+<br> 16.03.25 <p> D62 Questions <br>
 <br> 17.03.25 <p> D63 Case Study 6 <br>
 <br> 18.03.25 <p> D64 Case Study 6 <br>
 <br> 19.03.25 <p> D65 Case Study 6 <br>
@@ -85,12 +85,12 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 05.04.25 <p> D82 Power BI <br>
 <br> 06.04.25 <p> D83 Power BI <br>
 <br> 07.04.25 <p> D84 Break <br>
-<br> 09.04.25 <p> D85 Break <br>
-<br> 10.04.25 <p> D86 Break <br>
-<br> 11.04.25 <p> D87 Break <br>
-<br> 12.04.25 <p> D88 Break <br>
-<br> 13.04.25 <p> D89 Break <br>
-<br> 14.04.25 <p> D90 Break <br>
+<br> 09.04.25 <p> D85 Questions <br>
+<br> 10.04.25 <p> D86 Questions <br>
+<br> 11.04.25 <p> D87 Questions <br>
+<br> 12.04.25 <p> D88 Questions <br>
+<br> 13.04.25 <p> D89 Questions <br>
+<br> 14.04.25 <p> D90 Assignment <br>
 <br> 15.04.25 <p> D91 Break <br>
 <br> 16.04.25 <p> D92 Completing backlogs <br>
 <br> 17.04.25 <p> D93 Completing backlogs <br>
@@ -118,38 +118,38 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 09.05.25 <p> D115 SQL <br>
 <br> 10.05.25 <p> D116 Revision Power BI <br>
 <br> 11.05.25 <p> D117 Rest <br>
-<br> 12.05.25 <p> D118 SQL 2 <br>
-<br> 13.05.25 <p> D119 SQL 2 <br>
-<br> 14.05.25 <p> D120 SQL 2 <br>
-<br> 15.05.25 <p> D121 SQL 2 <br>
-<br> 16.05.25 <p> D122 SQL 2 <br>
-<br> 17.05.25 <p> D123 SQL 2 <br>
-<br> 18.05.25 <p> D124 SQL 2 <br>
-<br> 19.05.25 <p> D125 SQL 2 <br>
-<br> 20.05.25 <p> D126 SQL 2 <br>
-<br> 21.05.25 <p> D127 SQL 2 <br>
-<br> 22.05.25 <p> D128 SQL 2 <br>
-<br> 23.05.25 <p> D129 SQL 2 <br>
-<br> 24.05.25 <p> D130 SQL 2 <br>
-<br> 25.05.25 <p> D131 SQL 2 <br>
-<br> 26.05.25 <p> D132 SQL 2 <br>
-<br> 27.05.25 <p> D133 SQL 2 <br>
-<br> 28.05.25 <p> D134 SQL 2 <br>
-<br> 29.05.25 <p> D135 SQL 2 <br>
-<br> 30.05.25 <p> D136 SQL 2 <br>
-<br> 31.05.25 <p> D137 SQL 2 <br>
-<br> 01.06.25 <p> D138 SQL 2 <br>
-<br> 02.06.25 <p> D139 SQL 2 <br>
-<br> 03.06.25 <p> D140 SQL 2 <br>
-<br> 04.06.25 <p> D141 SQL 2 <br>
-<br> 05.06.25 <p> D142 SQL 2 <br>
-<br> 06.06.25 <p> D143 SQL 2 <br>
-<br> 07.06.25 <p> D144 SQL 2 <br>
-<br> 08.06.25 <p> D145 SQL 2 <br>
-<br> 09.06.25 <p> D146 SQL 2 <br>
-<br> 10.06.25 <p> D147 Power BI  <br>
-<br> 11.06.25 <p> D148 Power BI  <br>
-<br> 12.06.25 <p> D149 Power BI  <br>
-<br> 13.06.25 <p> D150 Power BI  <br>
-<br> 14.06.25 <p> D151 Power BI  <br>
+<br> 12.05.25 <p> D118 SQL <br>
+<br> 13.05.25 <p> D119 SQL  <br>
+<br> 14.05.25 <p> D120 SQL  <br>
+<br> 15.05.25 <p> D121 SQL  <br>
+<br> 16.05.25 <p> D122 SQL <br>
+<br> 17.05.25 <p> D123 SQL <br>
+<br> 18.05.25 <p> D124 SQL  <br>
+<br> 19.05.25 <p> D125 SQL <br>
+<br> 20.05.25 <p> D126 SQL  <br>
+<br> 21.05.25 <p> D127 SQL  <br>
+<br> 22.05.25 <p> D128 SQL <br>
+<br> 23.05.25 <p> D129 SQL  <br>
+<br> 24.05.25 <p> D130 SQL <br>
+<br> 25.05.25 <p> D131 SQL  <br>
+<br> 26.05.25 <p> D132 SQL  <br>
+<br> 27.05.25 <p> D133 SQL  <br>
+<br> 28.05.25 <p> D134 SQL Joins <br>
+<br> 29.05.25 <p> D135 SQL <br>
+<br> 30.05.25 <p> D136 SQL  <br>
+<br> 31.05.25 <p> D137 SQL  <br>
+<br> 01.06.25 <p> D138 SQL <br>
+<br> 02.06.25 <p> D139 SQL<br>
+<br> 03.06.25 <p> D140 SQL  <br>
+<br> 04.06.25 <p> D141 SQL Normalization <br>
+<br> 05.06.25 <p> D142 SQL <br>
+<br> 06.06.25 <p> D143 SQL Ques <br>
+<br> 07.06.25 <p> D144 SQL  Ques<br>
+<br> 08.06.25 <p> D145 SQL  <br>
+<br> 09.06.25 <p> D146 SQL  <br>
+<br> 10.06.25 <p> D147 Power BI Joins  <br>
+<br> 11.06.25 <p> D148 Power BI Union <br>
+<br> 12.06.25 <p> D149 Power BI Dax <br>
+<br> 13.06.25 <p> D150 Power BI Dax practice <br>
+<br> 14.06.25 <p> D151 Power BI Lib <br>
 
