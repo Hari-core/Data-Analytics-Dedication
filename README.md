@@ -153,4 +153,5 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 13.06.25 <p> D150 Power BI Dax practice <br>
 <br> 14.06.25 <p> D151 Power BI Lib <br>
 <br> 15.06.25 <p> D152  Power BI  <br>
+<br> 16.06.25 <p> D153  Power BI  <br>
 
