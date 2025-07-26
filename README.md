@@ -193,3 +193,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 23.07.25 <p> D190  Power BI  <br>
 <br> 24.07.25 <p> D191  Power BI  <br>
 <br> 25.07.25 <p> D192  Power BI  <br>
+<br> 26.07.25 <p> D193  Power BI  <br>
