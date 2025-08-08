@@ -206,3 +206,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 05.08.25 <p> D103  Python  <br>
 <br> 06.08.25 <p> D104  Python Operators  <br>
 <br> 07.08.25 <p> D105  Python Operators  <br>
+<br> 08.08.25 <p> D106  Python String ops <br>
