@@ -219,3 +219,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 18.08.25 <p> D116  Python DSA <br>
 <br> 19.08.25 <p> D117  Python DSA <br>
 <br> 20.08.25 <p> D118 Python DSA <br>
+<br> 21.08.25 <p> D119 Python DSA <br>
