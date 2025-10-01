@@ -262,3 +262,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 28.09.25 <p> D157 Python Recursion <br>
 <br> 29.09.25 <p> D158 Python Recursion <br>
 <br> 30.09.25 <p> D159 Python Recursion <br>
+<br> 01.10.25 <p> D160 Python Recursion <br>
