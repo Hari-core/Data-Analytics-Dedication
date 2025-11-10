@@ -200,105 +200,105 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 30.07.25 <p> D197  Python  <br>
 <br> 31.07.25 <p> D198  Python  <br>
 <br> 01.08.25 <p> D199  Python  <br>
-<br> 02.08.25 <p> D100  Python  <br>
-<br> 03.08.25 <p> D101  Python  <br>
-<br> 04.08.25 <p> D102  Python  <br>
-<br> 05.08.25 <p> D103  Python  <br>
-<br> 06.08.25 <p> D104  Python Operators  <br>
-<br> 07.08.25 <p> D105  Python Operators  <br>
-<br> 08.08.25 <p> D106  Python String ops <br>
-<br> 09.08.25 <p> D107  Python String ops <br>
-<br> 10.08.25 <p> D108  Python String ops <br>
-<br> 11.08.25 <p> D109  Python String ops <br>
-<br> 12.08.25 <p> D110  Python String ops <br>
-<br> 13.08.25 <p> D111  Python DSA <br>
-<br> 14.08.25 <p> D112  Python DSA <br>
-<br> 15.08.25 <p> D113  Python DSA <br>
-<br> 16.08.25 <p> D114  Python DSA <br>
-<br> 17.08.25 <p> D115  Python DSA <br>
-<br> 18.08.25 <p> D116  Python DSA <br>
-<br> 19.08.25 <p> D117  Python DSA <br>
-<br> 20.08.25 <p> D118 Python DSA <br>
-<br> 21.08.25 <p> D119 Python DSA <br>
-<br> 22.08.25 <p> D120 Python DSA <br>
-<br> 23.08.25 <p> D121 Python DSA <br>
-<br> 24.08.25 <p> D122 Python DSA <br>
-<br> 25.08.25 <p> D123 Python DSA <br>
-<br> 25.08.25 <p> D123 Python DSA 2 <br>
-<br> 26.08.25 <p> D124 Python DSA 2 <br>
-<br> 27.08.25 <p> D125 Python DSA 2 <br>
-<br> 28.08.25 <p> D126 Python DSA 2 <br>
-<br> 29.08.25 <p> D127 Python DSA 2 <br>
-<br> 30.08.25 <p> D128 Python DSA 2 <br>
-<br> 31.08.25 <p> D129 Python DSA 2 <br>
-<br> 01.09.25 <p> D130 Python DSA 2 <br>
-<br> 02.09.25 <p> D131 Python DSA 2 <br>
-<br> 03.09.25 <p> D132 Python DSA 2 <br>
-<br> 04.09.25 <p> D133 Python DSA 2 <br>
-<br> 05.09.25 <p> D134 Python DSA 2 <br>
-<br> 06.09.25 <p> D135 Python DSA 2 <br>
-<br> 07.09.25 <p> D136 Python DSA 2 <br>
-<br> 08.09.25 <p> D137 Python Recursion <br>
-<br> 09.09.25 <p> D138 Python Recursion <br>
-<br> 10.09.25 <p> D139 Python Recursion <br>
-<br> 11.09.25 <p> D140 Python Recursion <br>
-<br> 12.09.25 <p> D141 Python Recursion <br>
-<br> 13.09.25 <p> D142 Python Recursion <br>
-<br> 14.09.25 <p> D143 Python Recursion <br>
-<br> 15.09.25 <p> D144 Python Recursion <br>
-<br> 16.09.25 <p> D145 Python Recursion <br>
-<br> 17.09.25 <p> D146 Python Recursion <br>
-<br> 18.09.25 <p> D147 Python Recursion <br>
-<br> 18.09.25 <p> D147 Python Recursion <br>
-<br> 19.09.25 <p> D148 Python Recursion <br>
-<br> 20.09.25 <p> D149 Python Recursion <br>
-<br> 21.09.25 <p> D150 Python Recursion <br>
-<br> 22.09.25 <p> D151 Python Recursion <br>
-<br> 23.09.25 <p> D152 Python Recursion <br>
-<br> 24.09.25 <p> D153 Python Recursion <br>
-<br> 25.09.25 <p> D154 Python Recursion <br>
-<br> 26.09.25 <p> D155 Python Recursion <br>
-<br> 27.09.25 <p> D156 Python Recursion <br>
-<br> 28.09.25 <p> D157 Python Recursion <br>
-<br> 29.09.25 <p> D158 Python Recursion <br>
-<br> 30.09.25 <p> D159 Python Recursion <br>
-<br> 01.10.25 <p> D160 Python Recursion <br>
-<br> 02.10.25 <p> D161 Python Recursion <br>
-<br> 03.10.25 <p> D162 Python Recursion <br>
-<br> 04.10.25 <p> D163 Python Recursion <br>
-<br> 05.10.25 <p> D164 Python Recursion <br>
-<br> 06.10.25 <p> D165 Python Recursion <br>
-<br> 07.10.25 <p> D166 Python Recursion <br>
-<br> 08.10.25 <p> D167 Python Recursion <br>
-<br> 09.10.25 <p> D168 Python Recursion <br>
-<br> 10.10.25 <p> D169 Python Recursion <br>
-<br> 11.10.25 <p> D170 Python Recursion <br>
-<br> 12.10.25 <p> D171 Python Recursion <br>
-<br> 13.10.25 <p> D172 Python Recursion <br>
-<br> 14.10.25 <p> D173 Python Recursion <br>
-<br> 15.10.25 <p> D174 Python Recursion <br>
-<br> 16.10.25 <p> D175 Python Recursion <br>
-<br> 17.10.25 <p> D176 Python Recursion <br>
-<br> 19.10.25 <p> D178 Python Recursion <br>
-<br> 20.10.25 <p> D179 Python Recursion <br>
-<br> 21.10.25 <p> D180 Python Recursion <br>
-<br> 22.10.25 <p> D181 Python Recursion <br>
-<br> 23.10.25 <p> D182 Python Recursion <br>
-<br> 24.10.25 <p> D183 Python Recursion <br>
-<br> 25.10.25 <p> D184 Python Recursion <br>
-<br> 26.10.25 <p> D185 Python Recursion <br>
-<br> 27.10.25 <p> D186 Python Recursion <br>
-<br> 28.10.25 <p> D187 Python Recursion <br>
-<br> 29.10.25 <p> D188 Python Recursion <br>
-<br> 30.10.25 <p> D189 Python Recursion <br>
-<br> 31.10.25 <p> D190 Python Recursion <br>
-<br> 01.11.25 <p> D191 Python Recursion <br>
-<br> 02.11.25 <p> D192 Python Recursion <br>
-<br> 03.11.25 <p> D193 Python Recursion <br>
-<br> 04.11.25 <p> D194 Python Recursion <br>
-<br> 05.11.25 <p> D195 Python Recursion <br>
-<br> 06.11.25 <p> D196 Python Recursion <br>
-<br> 07.11.25 <p> D197 Python Recursion <br>
-<br> 08.11.25 <p> D198 Python Recursion <br>
-<br> 09.11.25 <p> D199 Python Recursion <br>
-<br> 10.11.25 <p> D200 Probability in Statistics <br>
+<br> 02.08.25 <p> D200  Python  <br>
+<br> 03.08.25 <p> D201  Python  <br>
+<br> 04.08.25 <p> D202  Python  <br>
+<br> 05.08.25 <p> D203  Python  <br>
+<br> 06.08.25 <p> D204  Python Operators  <br>
+<br> 07.08.25 <p> D205  Python Operators  <br>
+<br> 08.08.25 <p> D206  Python String ops <br>
+<br> 09.08.25 <p> D207  Python String ops <br>
+<br> 10.08.25 <p> D208  Python String ops <br>
+<br> 11.08.25 <p> D209  Python String ops <br>
+<br> 12.08.25 <p> D210  Python String ops <br>
+<br> 13.08.25 <p> D211  Python DSA <br>
+<br> 14.08.25 <p> D212  Python DSA <br>
+<br> 15.08.25 <p> D213  Python DSA <br>
+<br> 16.08.25 <p> D214  Python DSA <br>
+<br> 17.08.25 <p> D215  Python DSA <br>
+<br> 18.08.25 <p> D216  Python DSA <br>
+<br> 19.08.25 <p> D217  Python DSA <br>
+<br> 20.08.25 <p> D218 Python DSA <br>
+<br> 21.08.25 <p> D219 Python DSA <br>
+<br> 22.08.25 <p> D220 Python DSA <br>
+<br> 23.08.25 <p> D221 Python DSA <br>
+<br> 24.08.25 <p> D222 Python DSA <br>
+<br> 25.08.25 <p> D223 Python DSA <br>
+<br> 25.08.25 <p> D223 Python DSA 2 <br>
+<br> 26.08.25 <p> D224 Python DSA 2 <br>
+<br> 27.08.25 <p> D225 Python DSA 2 <br>
+<br> 28.08.25 <p> D226 Python DSA 2 <br>
+<br> 29.08.25 <p> D227 Python DSA 2 <br>
+<br> 30.08.25 <p> D228 Python DSA 2 <br>
+<br> 31.08.25 <p> D229 Python DSA 2 <br>
+<br> 01.09.25 <p> D230 Python DSA 2 <br>
+<br> 02.09.25 <p> D231 Python DSA 2 <br>
+<br> 03.09.25 <p> D232 Python DSA 2 <br>
+<br> 04.09.25 <p> D233 Python DSA 2 <br>
+<br> 05.09.25 <p> D234 Python DSA 2 <br>
+<br> 06.09.25 <p> D235 Python DSA 2 <br>
+<br> 07.09.25 <p> D236 Python DSA 2 <br>
+<br> 08.09.25 <p> D237 Python Recursion <br>
+<br> 09.09.25 <p> D238 Python Recursion <br>
+<br> 10.09.25 <p> D239 Python Recursion <br>
+<br> 11.09.25 <p> D240 Python Recursion <br>
+<br> 12.09.25 <p> D241 Python Recursion <br>
+<br> 13.09.25 <p> D242 Python Recursion <br>
+<br> 14.09.25 <p> D243 Python Recursion <br>
+<br> 15.09.25 <p> D244 Python Recursion <br>
+<br> 16.09.25 <p> D245 Python Recursion <br>
+<br> 17.09.25 <p> D246 Python Recursion <br>
+<br> 18.09.25 <p> D247 Python Recursion <br>
+<br> 18.09.25 <p> D247 Python Recursion <br>
+<br> 19.09.25 <p> D248 Python Recursion <br>
+<br> 20.09.25 <p> D249 Python Recursion <br>
+<br> 21.09.25 <p> D250 Python Recursion <br>
+<br> 22.09.25 <p> D251 Python Recursion <br>
+<br> 23.09.25 <p> D252 Python Recursion <br>
+<br> 24.09.25 <p> D253 Python Recursion <br>
+<br> 25.09.25 <p> D254 Python Recursion <br>
+<br> 26.09.25 <p> D255 Python Recursion <br>
+<br> 27.09.25 <p> D256 Python Recursion <br>
+<br> 28.09.25 <p> D257 Python Recursion <br>
+<br> 29.09.25 <p> D258 Python Recursion <br>
+<br> 30.09.25 <p> D259 Python Recursion <br>
+<br> 01.10.25 <p> D260 Python Recursion <br>
+<br> 02.10.25 <p> D261 Python Recursion <br>
+<br> 03.10.25 <p> D262 Python Recursion <br>
+<br> 04.10.25 <p> D263 Python Recursion <br>
+<br> 05.10.25 <p> D264 Python Recursion <br>
+<br> 06.10.25 <p> D265 Python Recursion <br>
+<br> 07.10.25 <p> D266 Python Recursion <br>
+<br> 08.10.25 <p> D267 Python Recursion <br>
+<br> 09.10.25 <p> D268 Python Recursion <br>
+<br> 10.10.25 <p> D269 Python Recursion <br>
+<br> 11.10.25 <p> D270 Python Recursion <br>
+<br> 12.10.25 <p> D271 Python Recursion <br>
+<br> 13.10.25 <p> D272 Python Recursion <br>
+<br> 14.10.25 <p> D273 Python Recursion <br>
+<br> 15.10.25 <p> D274 Python Recursion <br>
+<br> 16.10.25 <p> D275 Python Recursion <br>
+<br> 17.10.25 <p> D276 Python Recursion <br>
+<br> 19.10.25 <p> D278 Python Recursion <br>
+<br> 20.10.25 <p> D279 Python Recursion <br>
+<br> 21.10.25 <p> D280 Python Recursion <br>
+<br> 22.10.25 <p> D281 Python Recursion <br>
+<br> 23.10.25 <p> D282 Python Recursion <br>
+<br> 24.10.25 <p> D283 Python Recursion <br>
+<br> 25.10.25 <p> D284 Python Recursion <br>
+<br> 26.10.25 <p> D285 Python Recursion <br>
+<br> 27.10.25 <p> D286 Python Recursion <br>
+<br> 28.10.25 <p> D287 Python Recursion <br>
+<br> 29.10.25 <p> D288 Python Recursion <br>
+<br> 30.10.25 <p> D289 Python Recursion <br>
+<br> 31.10.25 <p> D290 Python Recursion <br>
+<br> 01.11.25 <p> D291 Python Recursion <br>
+<br> 02.11.25 <p> D292 Python Recursion <br>
+<br> 03.11.25 <p> D293 Python Recursion <br>
+<br> 04.11.25 <p> D294 Python Recursion <br>
+<br> 05.11.25 <p> D295 Python Recursion <br>
+<br> 06.11.25 <p> D296 Python Recursion <br>
+<br> 07.11.25 <p> D297 Python Recursion <br>
+<br> 08.11.25 <p> D298 Python Recursion <br>
+<br> 09.11.25 <p> D299 Python Recursion <br>
+<br> 10.11.25 <p> D300 Probability in Statistics <br>
