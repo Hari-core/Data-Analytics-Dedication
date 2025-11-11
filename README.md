@@ -302,3 +302,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 08.11.25 <p> D298 Python Recursion <br>
 <br> 09.11.25 <p> D299 Python Recursion <br>
 <br> 10.11.25 <p> D300 Probability in Statistics <br>
+<br> 11.11.25 <p> D301 Probability in Statistics <br>
