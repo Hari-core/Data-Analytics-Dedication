@@ -319,3 +319,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 25.11.25 <p> D315 Probability in Statistics <br>
 <br> 26.11.25 <p> D316 Probability in Statistics <br>
 <br> 27.11.25 <p> D317 Probability in Statistics <br>
+<br> 28.11.25 <p> D318 Probability in Statistics <br>
