@@ -334,3 +334,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 09.12.25 <p> D330 Probability in Statistics <br>
 <br> 10.12.25 <p> D331 Probability in Statistics <br>
 <br> 11.12.25 <p> D332 Probability in Statistics <br>
+<br> 12.12.25 <p> D333 Probability in Statistics <br>
