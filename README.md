@@ -36,7 +36,6 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 15.02.25 <p> D33 Revision<br>
 <br> 16.02.25 <p> D34 Revision <br>
 <br> 17.02.25 <p> D35 Adv Power Query <br>
-<br> 18.02.25 <p> D36 Revision <br>
 <br> 19.02.25 <p> D37 Power Query adv<br>
 <br> 20.02.25 <p> D38 Rest <br>
 <br> 21.02.25 <p> D39 Rest <br>
@@ -158,6 +157,7 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 18.06.25 <p> D155  Power BI  <br>
 <br> 19.06.25 <p> D156  Power BI  <br>
 <br> 20.06.25 <p> D157  Power BI  <br>
+<br> 18.02.25 <p> D36 Revision <br>
 <br> 21.06.25 <p> D158  Power BI  <br>
 <br> 22.06.25 <p> D159  Power BI  <br>
 <br> 23.06.25 <p> D160  Power BI  <br>
@@ -178,7 +178,6 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 08.07.25 <p> D175  Power BI  <br>
 <br> 09.07.25 <p> D176  Power BI  <br>
 <br> 10.07.25 <p> D177  Power BI  <br>
-<br> 11.07.25 <p> D178  Power BI  <br>
 <br> 12.07.25 <p> D179  Power BI  <br>
 <br> 13.07.25 <p> D180  Power BI  <br>
 <br> 14.07.25 <p> D181  Power BI  <br>
@@ -246,8 +245,8 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 13.09.25 <p> D242 Python Recursion <br>
 <br> 14.09.25 <p> D243 Python Recursion <br>
 <br> 15.09.25 <p> D244 Python Recursion <br>
+<br> 11.07.25 <p> D178  Power BI  <br>
 <br> 16.09.25 <p> D245 Python Recursion <br>
-<br> 17.09.25 <p> D246 Python Recursion <br>
 <br> 18.09.25 <p> D247 Python Recursion <br>
 <br> 18.09.25 <p> D247 Python Recursion <br>
 <br> 19.09.25 <p> D248 Python Recursion <br>
@@ -258,6 +257,7 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 24.09.25 <p> D253 Python Recursion <br>
 <br> 25.09.25 <p> D254 Python Recursion <br>
 <br> 26.09.25 <p> D255 Python Recursion <br>
+<br> 17.09.25 <p> D246 Python Recursion <br>
 <br> 27.09.25 <p> D256 Python Recursion <br>
 <br> 28.09.25 <p> D257 Python Recursion <br>
 <br> 29.09.25 <p> D258 Python Recursion <br>
@@ -354,4 +354,5 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 29.12.25 <p> D350 Probability in Statistics <br>
 <br> 30.12.25 <p> D351 Probability in Statistics <br>
 <br> 31.12.25 <p> D352 Probability in Statistics <br>
-<br> 01.01.26 <p> D352 Probability in Statistics <br>
+<br> 01.01.26 <p> D353 Probability in Statistics <br>
+<br> 02.01.26 <p> D354 Probability in Statistics <br>
