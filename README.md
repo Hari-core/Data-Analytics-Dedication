@@ -379,3 +379,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 23.01.26 <p> D375 Probability in Statistics.. <br>
 <br> 24.01.26 <p> D376 Probability in Statistics.. <br>
 <br> 25.01.26 <p> D377 Probability in Statistics.. <br>
+<br> 26.01.26 <p> D378 Probability in Statistics.. <br>
