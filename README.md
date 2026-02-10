@@ -394,3 +394,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 07.02.26 <p> D3830 Probability in Statistics.. <br>
 <br> 08.02.26 <p> D3831 Probability in Statistics.. <br>
 <br> 09.02.26 <p> D3832 Probability in Statistics.. <br>
+<br> 10.02.26 <p> D3833 Probability in Statistics.. <br>
