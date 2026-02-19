@@ -403,3 +403,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 16.02.26 <p> D399 Probability in Statistics.. <br>
 <br> 17.02.26 <p> D400 Probability in Statistics.. <br>
 <br> 18.02.26 <p> D401 Probability in Statistics.. <br>
+<br> 19.02.26 <p> D402 Probability in Statistics.. <br>
