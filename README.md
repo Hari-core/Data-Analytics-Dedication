@@ -431,3 +431,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 16.03.26 <p> D427 Probability in Statistics... <br>
 <br> 17.03.26 <p> D428 Probability in Statistics... <br>
 <br> 18.03.26 <p> D429 Probability in Statistics... <br>
+<br> 19.03.26 <p> D430 Probability in Statistics... <br>
