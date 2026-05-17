@@ -486,3 +486,4 @@ This shows the diff topics and date aspect to which am being consistent to this 
 <br> 10.05.26 <p> D482 Probability in Statistics... <br>
 <br> 11.05.26 <p> D483 Probability in Statistics... <br>
 <br> 12.05.26 <p> D484 Probability in Statistics... <br>
+<br> 13.05.26 <p> D485 Probability in Statistics... <br>
